@@ -3,4 +3,4 @@ syntax on
 filetype plugin indent on
 
 colorscheme blackboard
-set guifont=Consolas:h11
+set guifont=Consolas:h10
