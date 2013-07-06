@@ -4,3 +4,9 @@
 [submodule "bundle/CamelCaseMotion"]
 	path = bundle/CamelCaseMotion
 	url = http://github.com/bkad/CamelCaseMotion.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = http://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/vundle"]
+	path = bundle/vundle
+	url = https://github.com/gmarik/vundle.git
