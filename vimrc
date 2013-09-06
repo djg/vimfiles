@@ -1,8 +1,7 @@
 " {{{ Preamble
 filetype off
 
-set rtp+=~/vimfiles/bundle/vundle/
-call vundle#rc()
+call vundle#rc(g:bundle_dir_from_vimrc)
 
 " let Vundle manage Vundle
 " required!
